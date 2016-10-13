@@ -1,0 +1,15 @@
+Features able to complete:
+1. Each disk is a rectangle. All disks have the same widths, but have different lengths.
+2. Each disk is of a different color
+3.  a 	start with all the disks on the left tower and end with all the disks on the right tower
+	b 	animate each step of the solution
+	c 	show disks flying between towers one at a time
+	d 	Once the solution is complete, 
+		users are able to press Space bar to restart the visualization 
+		without having to run the program again
+4. Take the number of disks as a command-line argument; check for invalid arguments
+
+Extra1: able to change from autoMode to keyMode
+	Press A for AutoMode; 
+	Press D for KeyBoardMode; 
+	Press SPACE for move under KeyBoardMode
